@@ -1,5 +1,5 @@
 setwd('Desktop/Thesis')
-lanl <- read.table("try4file.txt", sep = ",")
+lanl <- read.table("lanlauth.txt", sep = ",")
 
 ####### different source and destination #######
 ########### order by number of events ##########
